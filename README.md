@@ -1,4 +1,6 @@
 # ViMouse
+ViMouse - A mouse alternative for Vim users.
+
 My submission for the 2019 ProgrammerHumor Hackathon, with the theme "Overengineering".
 
 This project was inspired by some memes I've seen regarding Vim users, in which said user never touches their mouse and performs all operations using solely their keyboard. 

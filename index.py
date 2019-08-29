@@ -14,7 +14,7 @@ HELP_MESSAGE = dedent('''
 ''')
 
 WELCOME_MESSAGE = dedent('''
-    ViMouse (Created by Ruyi Li for the 2019 ProgrammerHumor Hackathon)
+    ViMouse - A mouse alternative for Vim users. Created by Ruyi Li for the 2019 ProgrammerHumor Hackathon.
     This program will nullify any attempts to move your cursor with normal mouse input devices, forcing you to use keyboard input to move the cursor instead.
     For a list of valid commands, type :help.
 ''')
