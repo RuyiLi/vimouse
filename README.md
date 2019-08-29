@@ -20,4 +20,4 @@ Commands can be chained by simply adding a space instead of a newline.
 For example: `:left 100 :up 100` will move the cursor 100 pixels to the left and 100 pixels up.
 
 ## Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3ZRiksVMt1I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=3ZRiksVMt1I
