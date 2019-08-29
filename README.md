@@ -9,6 +9,13 @@ Disclaimer: I've never actually used Vim.
 
 Warning: this program will not allow you to move your mouse until you terminate it.
 
+## Installation
+0. Clone this repository
+1. cd into the folder
+2. (Recommended) Create a virtual environment
+3. Run `pip install -r requirements.txt`
+4. Run `python index.py`
+
 ## Commands
     :q - Terminates the program.
     :help - Displays this help message.
